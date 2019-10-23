@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onSuccess(int statusCode, Header[] headers, String response) {
                         Log.d("AsyncHttpClient", "response = " + response);
-                        Gson gson = new GsonBuilder().create();;
+                        Gson gson = new GsonBuilder().create();
                         candies = gson.fromJson(response, Candy[].class);
 
                         addCandiesToDatabase(candies);
@@ -74,12 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 
-    @Override public boolean onOptionsItemSelected(MenuItem item) {
-        Intent infoIntent = new Intent(this, InfoActivity.class);
-        startActivity(infoIntent);
 
-        return super.onOptionsItemSelected(item);
-    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -90,7 +85,12 @@ public class MainActivity extends AppCompatActivity {
     // ***
     // TODO - Task 1 - Show Store Information Activity
     // ***
+    @Override public boolean onOptionsItemSelected(MenuItem item) {
+        Intent infoIntent = new Intent(this, InfoActivity.class);
+        startActivity(infoIntent);
 
+        return super.onOptionsItemSelected(item);
+    }
     private void addCandiesToDatabase(Candy[] candies) {
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
 
