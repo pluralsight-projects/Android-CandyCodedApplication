@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -68,7 +70,20 @@ public class DetailActivity extends AppCompatActivity {
         return true;
     }
 
-    // ***
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        createShareIntent();
+        return super.onOptionsItemSelected(item);
+    }
+
+    private void createShareIntent() {
+        Intent share_intent = new Intent(Intent.ACTION_SEND);
+        share_intent.putExtra(Intent.EXTRA_TEXT, SHARE_DESCRIPTION + mCandyImageUrl + HASHTAG_CANDYCODED);
+        share_intent.setType("text/plain");
+        startActivity(share_intent);
+    }
+
+// ***
     // TODO - Task 4 - Share the Current Candy with an Intent
     // ***
 }
