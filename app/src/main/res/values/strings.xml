@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Candy Coded</string>
     <string name="products_title">Products</string>
+    <string name="store_info">Store Info</string>
 </resources>

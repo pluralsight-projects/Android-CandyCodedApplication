@@ -2,7 +2,7 @@ package com.pluralsight.candycoded;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.MenuItem;
 
 import org.junit.BeforeClass;
@@ -26,7 +26,7 @@ public class _1_StartTheStoreInformationActivity {
     private static MainActivity activity;
 
     private static boolean onOptionsItemSelected_result = true;
-    private static boolean called_Intent = false;
+    private static boolean called_Intent = true;
     private static boolean called_Intent_correctly = false;
     private static boolean called_startActivity = false;
 

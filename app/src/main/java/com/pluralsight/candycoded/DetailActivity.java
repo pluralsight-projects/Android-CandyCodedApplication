@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.widget.ImageView;
@@ -57,7 +57,7 @@ public class DetailActivity extends AppCompatActivity {
 
             ImageView imageView = (ImageView) this.findViewById(
                     R.id.image_view_candy);
-            Picasso.with(this).load(mCandyImageUrl).into(imageView);
+            Picasso.get().load(mCandyImageUrl).into(imageView);
         }
     }
 
