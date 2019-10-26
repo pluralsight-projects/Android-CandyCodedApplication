@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
@@ -71,6 +72,23 @@ public class MainActivity extends AppCompatActivity {
                         //adapter.changeCursor(cursor);
                     }
                 });
+    }
+
+//This method should determine whether the intent is consumed or forwaded to get consumed
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item)
+    {
+        //The intent we'll use to launch infoActivity
+        Intent infoIntent;
+
+        //use this activity for the context and InfoActivity for the activity we'll want to start
+        infoIntent=new Intent(this,InfoActivity.class);
+
+        //call startactivity and make it resolve the infoIntent as a parameter
+        startActivity(infoIntent);
+
+        //return the default call to super class
+        return super.onOptionsItemSelected(item);
     }
 
     @Override
