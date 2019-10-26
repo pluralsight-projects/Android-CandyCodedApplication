@@ -28,7 +28,7 @@ public class InfoActivity extends AppCompatActivity {
     // ***
     // TODO - Task 2 - Launch the Google Maps Activity
     // ***
-    //create a method that will be executed after the Textview ClickListener registers a click
+    //create a method that will be executed after the textview_address ClickListener registers a click
     public void createMapIntent(View view){
         //create a uri from the string in the parameter using the Uri class
         Uri locationAddress=Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
@@ -43,7 +43,7 @@ public class InfoActivity extends AppCompatActivity {
         //return a component of the activity that is required to start the intent for tests
         if(mapIntent.resolveActivity(getPackageManager())!=null){
 
-            //if the component exists then we proceed to start an activity that will follow our intent
+            //if the component exists then we proceed to start an activity that with our intent
             startActivity(mapIntent);
         }
 
@@ -52,4 +52,22 @@ public class InfoActivity extends AppCompatActivity {
     // ***
     // TODO - Task 3 - Launch the Phone Activity
     // ***
-}
+
+    //a method that will be executed after the textview_phone ClickListener registers a click
+    public void createPhoneIntent(View view){
+
+        //create a uri from the string in the parameter using the Uri class
+        Uri phoneAddress=Uri.parse("tel:0123456789");
+
+        /*create an implicit intent that will launch a phone dialer application with some number entered as
+        specified by the intent content
+         */
+        Intent phoneIntent=new Intent(Intent.ACTION_DIAL);
+
+        //make the intent operate on the data in the phoneaddress Uri
+        phoneIntent.setData(phoneAddress);
+
+        //start an activity with the phoneIntent
+        startActivity(phoneIntent);
+
+}}
