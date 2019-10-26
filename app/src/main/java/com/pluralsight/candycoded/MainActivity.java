@@ -74,7 +74,17 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 
-//This method should determine whether the intent is consumed or forwaded to get consumed
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.main, menu);
+        return true;
+    }
+    // ***
+    // TODO - Task 1 - Show Store Information Activity
+    // ***
+    //This method should determine whether the intent is consumed or forwaded to get consumed
     @Override
     public boolean onOptionsItemSelected(MenuItem item)
     {
@@ -91,15 +101,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.main, menu);
-        return true;
-    }
-    // ***
-    // TODO - Task 1 - Show Store Information Activity
-    // ***
+
 
     private void addCandiesToDatabase(Candy[] candies) {
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
