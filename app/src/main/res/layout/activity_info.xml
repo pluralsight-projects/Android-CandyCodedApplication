@@ -50,7 +50,9 @@
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/image_view_map" />
+        app:layout_constraintTop_toBottomOf="@+id/image_view_map"
+        android:clickable="true"
+        android:onClick="createPhoneIntent"/>
 
     <TextView
         android:id="@+id/text_view_hours"
