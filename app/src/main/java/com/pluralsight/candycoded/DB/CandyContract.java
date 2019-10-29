@@ -1,6 +1,5 @@
 package com.pluralsight.candycoded.DB;
 
-import android.provider.BaseColumns;
 
 public class CandyContract {
     public static final String DB_NAME = "candycoded.db";
