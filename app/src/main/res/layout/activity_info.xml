@@ -19,8 +19,9 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/placeholder_landscape" />
 
-    
+
     <TextView
+        
         android:id="@+id/text_view_address"
         android:layout_width="0dp"
         android:layout_height="30dp"
