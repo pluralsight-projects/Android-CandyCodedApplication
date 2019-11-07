@@ -37,6 +37,7 @@
         android:clickable="true"
         android:onClick="createMapIntent"/>
 
+    
     <TextView
         android:id="@+id/text_view_phone"
         android:layout_width="0dp"
