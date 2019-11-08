@@ -46,6 +46,8 @@
         android:layout_marginTop="16dp"
         android:gravity="center_vertical"
         android:text="(012)345-6789"
+        android:clickable="true"
+        android:onClick="createPhoneIntent"
         android:textColor="?android:attr/actionMenuTextColor"
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
