@@ -20,6 +20,8 @@
         app:srcCompat="@drawable/placeholder_landscape" />
 
     <TextView
+		android:clickable="true"
+		android:onClick="createMapIntent"
         android:id="@+id/text_view_address"
         android:layout_width="0dp"
         android:layout_height="30dp"
