@@ -22,6 +22,8 @@ import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.TextHttpResponseHandler;
 
 import cz.msebera.android.httpclient.Header;
+import android.view.*;
+import org.apache.http.*;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -42,35 +44,38 @@ public class MainActivity extends AppCompatActivity {
         listView.setAdapter(adapter);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Intent detailIntent = new Intent(MainActivity.this, DetailActivity.class);
-                detailIntent.putExtra("position", i);
-                startActivity(detailIntent);
-            }
-        });
+				@Override
+				public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+					Intent detailIntent = new Intent(MainActivity.this, DetailActivity.class);
+					detailIntent.putExtra("position", i);
+					startActivity(detailIntent);
+				}
+			});
 
         AsyncHttpClient client = new AsyncHttpClient();
         client.get("https://vast-brushlands-23089.herokuapp.com/main/api",
-                new TextHttpResponseHandler() {
-                    @Override
-                    public void onFailure(int statusCode, Header[] headers, String response, Throwable throwable) {
-                        Log.e("AsyncHttpClient", "response = " + response);
-                    }
+			new TextHttpResponseHandler() {
 
-                    @Override
-                    public void onSuccess(int statusCode, Header[] headers, String response) {
-                        Log.d("AsyncHttpClient", "response = " + response);
-                        Gson gson = new GsonBuilder().create();;
-                        candies = gson.fromJson(response, Candy[].class);
 
-                        addCandiesToDatabase(candies);
 
-                        SQLiteDatabase db = candyDbHelper.getWritableDatabase();
-                        Cursor cursor = db.rawQuery("SELECT * FROM candy", null);
-                        //adapter.changeCursor(cursor);
-                    }
-                });
+				@Override
+				public void onFailure(int statusCode,Header[] headers, String response, Throwable throwable) {
+					Log.e("AsyncHttpClient", "response = " + response);
+				}
+
+				@Override
+				public void onSuccess(int statusCode,Header[] headers, String response) {
+					Log.d("AsyncHttpClient", "response = " + response);
+					Gson gson = new GsonBuilder().create();
+					candies = gson.fromJson(response, Candy[].class);
+
+					addCandiesToDatabase(candies);
+
+					SQLiteDatabase db = candyDbHelper.getWritableDatabase();
+					Cursor cursor = db.rawQuery("SELECT * FROM candy", null);
+					//adapter.changeCursor(cursor);
+				}
+			});
     }
 
     @Override
@@ -82,6 +87,19 @@ public class MainActivity extends AppCompatActivity {
     // ***
     // TODO - Task 1 - Show Store Information Activity
     // ***
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item)
+	{
+
+		Intent infoIntent= new Intent (this,InfoActivity.class);
+		startActivity(infoIntent);
+
+
+
+
+		// TODO: Implement this method
+		return super.onOptionsItemSelected(item);
+	}
 
     private void addCandiesToDatabase(Candy[] candies) {
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
