@@ -23,7 +23,6 @@ import com.loopj.android.http.TextHttpResponseHandler;
 
 import cz.msebera.android.httpclient.Header;
 import android.view.*;
-import org.apache.http.*;
 
 
 public class MainActivity extends AppCompatActivity {
