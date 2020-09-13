@@ -10,7 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +41,6 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="tast1" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
@@ -57,38 +57,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_API_28" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-12T15:37:15.462Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Suggestions" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
-    <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
+    <property name="show.do.not.ask.upgrade.gradle.version" value="5.1.4" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="PsdUISettings">
-    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
+  <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.pluralsight.candycoded in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
-      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
@@ -148,7 +139,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
-        <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
     </recent_temporary>
   </component>
@@ -174,10 +164,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="679" y="185" key="#app/0.0.1920.1080@0.0.1920.1080" timestamp="1599922420670" />
-    <state x="1245" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1599993900853">
+    <state x="1245" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1599992160836">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1245" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599993900853" />
+    <state x="1245" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1599992160836" />
     <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599918727125">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -186,30 +176,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599921590570" />
-    <state width="914" height="292" key="GridCell.Tab.0.bottom" timestamp="1599994118602">
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom" timestamp="1599923177079">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599994118602" />
-    <state width="914" height="292" key="GridCell.Tab.0.center" timestamp="1599994118602">
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599923177079" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center" timestamp="1599923177079">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599994118602" />
-    <state width="914" height="292" key="GridCell.Tab.0.left" timestamp="1599994118601">
+    <state width="1877" height="253" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599923177079" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left" timestamp="1599923177079">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599994118601" />
-    <state width="914" height="292" key="GridCell.Tab.0.right" timestamp="1599994118602">
+    <state width="1877" height="253" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599923177079" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right" timestamp="1599923177079">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599994118602" />
-    <state x="368" y="93" key="MergeDialog" timestamp="1599994248845">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599994248845" />
-    <state x="1152" y="259" key="MultipleFileMergeDialog" timestamp="1599994248853">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1152" y="259" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599994248853" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599923177079" />
     <state x="872" y="180" key="SettingsEditor" timestamp="1599925066242">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -218,14 +200,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599924630143" />
-    <state x="656" y="138" width="607" height="804" key="find.popup" timestamp="1599993259108">
+    <state x="656" y="138" width="607" height="804" key="find.popup" timestamp="1599924974936">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="138" width="607" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599993259108" />
-    <state x="1173" y="256" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599994183216">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1173" y="256" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599994183216" />
+    <state x="656" y="138" width="607" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599924974936" />
     <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1599925072751">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
