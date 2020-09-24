@@ -11,8 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,18 +180,26 @@
       <option name="project" value="LOCAL" />
       <updated>1600956391762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="provided solution for starting Google map with the provided location on the forked Pluralsight Candy Store App">
+      <created>1600957776652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600957776652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit on the forked Pluralsight Candy Store App" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit on the forked Pluralsight Candy Store App" />
+    <MESSAGE value="provided solution for starting Google map with the provided location on the forked Pluralsight Candy Store App" />
+    <option name="LAST_COMMIT_MESSAGE" value="provided solution for starting Google map with the provided location on the forked Pluralsight Candy Store App" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="472" y="128" key="CommitChangelistDialog2" timestamp="1600956567448">
+    <state x="472" y="128" key="CommitChangelistDialog2" timestamp="1600957774201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="472" y="128" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600956567448" />
+    <state x="472" y="128" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600957774201" />
     <state width="1877" height="252" key="GridCell.Tab.0.bottom" timestamp="1600957602406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -208,10 +216,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600957602406" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600956700399">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600957794670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600956700399" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600957794670" />
     <state x="767" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600956546420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -9,6 +9,8 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
+import cn.pedant.SweetAlert.SweetAlertDialog;
+
 public class InfoActivity extends AppCompatActivity {
 
     private String mGeoInfo;
@@ -38,6 +40,12 @@ public class InfoActivity extends AppCompatActivity {
         Intent mapIntent = new Intent(Intent.ACTION_VIEW,uUri).setPackage(GOOGLE_MAPS_PACKAGE);
         if(mapIntent.resolveActivity(getPackageManager()) != null){
             startActivity(mapIntent);
+        }else{
+            // 3. Error message
+            new SweetAlertDialog(this, SweetAlertDialog.ERROR_TYPE)
+                    .setTitleText("Oops...")
+                    .setContentText("Please Install Google Maps and Try Again!")
+                    .show();
         }
     }
 
