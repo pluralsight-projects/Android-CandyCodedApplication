@@ -17,6 +17,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
@@ -44,28 +47,48 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="passed the startTheGoogleMapsActivity test">
+      <created>1600960003105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600960003105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="passed the startTheGoogleMapsActivity test" />
+    <option name="LAST_COMMIT_MESSAGE" value="passed the startTheGoogleMapsActivity test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="475" y="128" key="CommitChangelistDialog2" timestamp="1600959999677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="475" y="128" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600959999677" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1600959948237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600959948237" />
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1600959926663">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1600960458802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600959926663" />
-    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1600959926663">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600960458802" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1600960458801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600959926663" />
-    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1600959926662">
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600960458801" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1600960458801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600959926662" />
-    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1600959926663">
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600960458801" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1600960458801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600959926663" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600960458801" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1600960016480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600960016480" />
   </component>
 </project>
