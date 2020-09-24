@@ -37,7 +37,8 @@ public class InfoActivity extends AppCompatActivity {
         mGeoInfo = "geo:0,0?q=618 E South St Orlando, FL 32801";
         Uri uUri = Uri.parse(mGeoInfo);
 
-        Intent mapIntent = new Intent(Intent.ACTION_VIEW,uUri).setPackage(GOOGLE_MAPS_PACKAGE);
+        Intent mapIntent = new Intent(Intent.ACTION_VIEW,uUri);
+        mapIntent.setPackage(GOOGLE_MAPS_PACKAGE);
         if(mapIntent.resolveActivity(getPackageManager()) != null){
             startActivity(mapIntent);
         }else{
