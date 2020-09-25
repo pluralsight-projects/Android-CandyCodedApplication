@@ -88,6 +88,7 @@ public class _1_StartTheStoreInformationActivity {
         }
     }
 
+
     @Test
     public void mainactivity_onoptionitemselected_return_super() throws Exception {
         override_mainactivity_onoptionitemselected();
