@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -177,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601089597021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Step 4">
+      <created>1601091531212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601091531324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step 1" />
     <MESSAGE value="Step 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 3" />
+    <MESSAGE value="Step 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601086026075">
@@ -205,10 +211,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="516" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601083393705" />
-    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601089576517">
+    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601091412588">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601089576517" />
+    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601091412588" />
     <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
