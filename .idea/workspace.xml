@@ -9,11 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601086660766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Step 3">
+      <created>1601089596976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601089597021</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,26 +200,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="516" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601083393705" />
-    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601086657127">
+    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601089576517">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601086657127" />
-    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1601086582923">
+    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601089576517" />
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601086582923" />
-    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1601086582923">
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
+    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601086582923" />
-    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1601086582923">
+    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
+    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601086582923" />
-    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1601086582923">
+    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601086582923" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
     <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601088779049">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
