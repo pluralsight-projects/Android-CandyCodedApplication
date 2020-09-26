@@ -88,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.info) {       
            Intent infoIntent = new Intent(this, InfoActivity.class);
            startActivity(infoIntent);
+           return true;
          }
 
         return super.onOptionsItemSelected(item);
