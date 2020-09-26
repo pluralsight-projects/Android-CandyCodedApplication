@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601091531324</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final stage">
+      <created>1601094065073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601094065073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +207,8 @@
     <MESSAGE value="Step 1" />
     <MESSAGE value="Step 3" />
     <MESSAGE value="Step 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 4" />
+    <MESSAGE value="final stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="final stage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601093025232">
