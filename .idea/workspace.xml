@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601094698517</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="final stage">
+      <created>1601094846934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601094846934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,10 +226,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="final stage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601093025232">
+    <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601095042259">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601093025232" />
+    <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601095042259" />
     <state x="516" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601083393705">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
