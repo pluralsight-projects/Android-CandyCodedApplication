@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="    android:clickable=&quot;true&quot;&#10;    android:onClick=&quot;CreateMapIntent&quot;&#10;    &#10;    public void CreateMapIntent(View view) {&#10;            Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;            Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;            mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;            if (mapIntent.resolveActivity(getPackageManager()) != null) {&#10;                startActivity(mapIntent);&#10;            }&#10;        }&#10;    }">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +160,12 @@
       <option name="project" value="LOCAL" />
       <updated>1601315702834</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+      <created>1601316724771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <updated>1601316724771</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -190,6 +194,8 @@
     <MESSAGE value="// TODO - Task 2 - Launch the Google Maps Activity&#10;    public void CreateMapIntent(View view){&#10;        Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;        Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;        mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;        if (mapIntent.resolveActivity(getPackageManager()) != null)&#10;        startActivity(mapIntent);&#10;        }&#10;    }&#10;    &#10;    &#10;    android:clickable=&quot;true&quot;&#10;    android:onClick=&quot;CreateMapIntent&quot;" />
     <MESSAGE value="    android:clickable=&quot;true&quot;&#10;    android:onClick=&quot;CreateMapIntent&quot;" />
     <MESSAGE value="    android:clickable=&quot;true&quot;&#10;    android:onClick=&quot;CreateMapIntent&quot;&#10;    &#10;    public void CreateMapIntent(View view) {&#10;            Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;            Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;            mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;            if (mapIntent.resolveActivity(getPackageManager()) != null) {&#10;                startActivity(mapIntent);&#10;            }&#10;        }&#10;    }" />
-    <option name="LAST_COMMIT_MESSAGE" value="    android:clickable=&quot;true&quot;&#10;    android:onClick=&quot;CreateMapIntent&quot;&#10;    &#10;    public void CreateMapIntent(View view) {&#10;            Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;            Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;            mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;            if (mapIntent.resolveActivity(getPackageManager()) != null) {&#10;                startActivity(mapIntent);&#10;            }&#10;        }&#10;    }" />
+    <MESSAGE value="    public void CreateMapIntent(View view) {&#10;            Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;            Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;            mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;            if (mapIntent.resolveActivity(getPackageManager()) != null) {&#10;                startActivity(mapIntent);&#10;            }&#10;        }&#10;    }&#10;    &#10;        android:clickable=&quot;true&quot;&#10;        android:onClick=&quot;CreateMapIntent&quot;" />
+    <MESSAGE value="public void CreateMapIntent(View view) {&#10;        Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;        Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;        mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;        if (mapIntent.resolveActivity(getPackageManager()) != null) {&#10;            startActivity(mapIntent);&#10;        }&#10;    }&#10;}&#10;    &#10;        android:clickable=&quot;true&quot;&#10;        android:onClick=&quot;CreateMapIntent&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="public void CreateMapIntent(View view) {&#10;        Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;        Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;        mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;        if (mapIntent.resolveActivity(getPackageManager()) != null) {&#10;            startActivity(mapIntent);&#10;        }&#10;    }&#10;}&#10;    &#10;        android:clickable=&quot;true&quot;&#10;        android:onClick=&quot;CreateMapIntent&quot;" />
   </component>
 </project>
