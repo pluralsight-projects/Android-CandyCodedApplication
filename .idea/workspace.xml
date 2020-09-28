@@ -137,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="// TODO - Task 2 - Launch the Google Maps Activity&#10;    public void CreateMapIntent(View view){&#10;        Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;        Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;        mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;        if (mapIntent.resolveActivity(getPackageManager()) != null)&#10;        startActivity(mapIntent);&#10;        }&#10;    }">
+      <created>1601315167701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601315167701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,5 +157,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="// TODO - Task 2 - Launch the Google Maps Activity&#10;    public void CreateMapIntent(View view){&#10;        Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;        Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;        mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;        if (mapIntent.resolveActivity(getPackageManager()) != null)&#10;        startActivity(mapIntent);&#10;        }&#10;    }" />
+    <option name="LAST_COMMIT_MESSAGE" value="// TODO - Task 2 - Launch the Google Maps Activity&#10;    public void CreateMapIntent(View view){&#10;        Uri mapUri = Uri.parse(&quot;geo:0,0?q=618 E South St Orlando, FL 32801&quot;);&#10;        Intent mapIntent = new Intent(Intent.ACTION_VIEW, mapUri);&#10;        mapIntent.setPackage(&quot;com.google.android.apps.maps&quot;);&#10;        if (mapIntent.resolveActivity(getPackageManager()) != null)&#10;        startActivity(mapIntent);&#10;        }&#10;    }" />
   </component>
 </project>
