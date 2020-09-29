@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
@@ -61,7 +65,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -173,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601337938736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="module2-solution">
+      <created>1601395526998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601395526998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,26 +201,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601335457260" />
-    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601337936411">
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601395524401">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601337936411" />
-    <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1601338810750">
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601395524401" />
+    <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1601396679431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
-    <state width="1306" height="188" key="GridCell.Tab.0.center" timestamp="1601338810750">
+    <state width="1306" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601396679431" />
+    <state width="1306" height="188" key="GridCell.Tab.0.center" timestamp="1601396679430">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
-    <state width="1306" height="188" key="GridCell.Tab.0.left" timestamp="1601338810750">
+    <state width="1306" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601396679430" />
+    <state width="1306" height="188" key="GridCell.Tab.0.left" timestamp="1601396679339">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
-    <state width="1306" height="188" key="GridCell.Tab.0.right" timestamp="1601338810750">
+    <state width="1306" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601396679339" />
+    <state width="1306" height="188" key="GridCell.Tab.0.right" timestamp="1601396679430">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
+    <state width="1306" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601396679430" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601335322779">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
