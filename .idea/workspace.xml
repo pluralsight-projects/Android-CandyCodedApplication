@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,30 +222,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1601364528324" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1601373450673">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1601386086839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601373450673" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1601373450671">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601386086839" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1601386086837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601373450671" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1601373450669">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601386086837" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1601386086836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601373450668" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1601373450672">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601386086836" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1601386086838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601373450672" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601386086838" />
     <state x="395" y="79" key="MultipleFileMergeDialog" timestamp="1601364642074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601364642074" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601379100246">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601386160092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601379100246" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601386160092" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601370474758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
