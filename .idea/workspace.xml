@@ -47,10 +47,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="ProjectId" id="1iA0szdcXIfwS6d4a5PpCJAY2d3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,7 +61,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -170,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601336980449</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="module2-solution">
+      <created>1601337938736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601337938736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,26 +190,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601335457260" />
-    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601337913285">
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601337936411">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601337913285" />
-    <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1601337913530">
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601337936411" />
+    <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1601338810750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601337913530" />
-    <state width="1306" height="188" key="GridCell.Tab.0.center" timestamp="1601337913530">
+    <state width="1306" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
+    <state width="1306" height="188" key="GridCell.Tab.0.center" timestamp="1601338810750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601337913530" />
-    <state width="1306" height="188" key="GridCell.Tab.0.left" timestamp="1601337913530">
+    <state width="1306" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
+    <state width="1306" height="188" key="GridCell.Tab.0.left" timestamp="1601338810750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601337913530" />
-    <state width="1306" height="188" key="GridCell.Tab.0.right" timestamp="1601337913530">
+    <state width="1306" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
+    <state width="1306" height="188" key="GridCell.Tab.0.right" timestamp="1601338810750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601337913530" />
+    <state width="1306" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601338810750" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601335322779">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
