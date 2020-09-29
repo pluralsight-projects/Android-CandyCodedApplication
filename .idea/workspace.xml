@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601395526998</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="module2-solution">
+      <created>1601396903766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601396903766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +200,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="module2-solution" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Notifications" timestamp="1601396965766">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1601396965766" />
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1601335724289">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -201,10 +212,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601335457260" />
-    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601395524401">
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1601396901703">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601395524401" />
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601396901703" />
     <state width="1306" height="188" key="GridCell.Tab.0.bottom" timestamp="1601396679431">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -225,5 +236,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1601335322779" />
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601396919548">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1601396919547" />
   </component>
 </project>
