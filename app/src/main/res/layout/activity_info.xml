@@ -28,6 +28,7 @@
         android:layout_marginRight="8dp"
         android:gravity="center_vertical"
         android:onClick="createMapIntent"
+        android:clickable="true"
         android:text="618 E South St Orlando, FL"
         android:textColor="?android:attr/actionMenuTextColor"
         android:textSize="18sp"
