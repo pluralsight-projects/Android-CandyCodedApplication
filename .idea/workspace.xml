@@ -10,6 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/_1_StartTheStoreInformationActivity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -75,23 +77,7 @@
       <recent name="com.pluralsight.candycoded" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.app">
-    <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
-      <module name="app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -210,34 +196,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#TODO/0.0.1366.728@0.0.1366.728" timestamp="1601364354222" />
+    <state x="280" y="33" key="#_1_StartTheStoreInformationActivity" timestamp="1601447296189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="33" key="#_1_StartTheStoreInformationActivity/0.0.1366.728@0.0.1366.728" timestamp="1601447296189" />
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1601367630461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601367630461" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601377586350">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601447805896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601377586350" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601447805896" />
     <state x="129" y="55" key="DiffContextDialog" timestamp="1601364528324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1601364528324" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1601386086839">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1601390902004">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601386086839" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1601386086837">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601390902004" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1601390902000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601386086837" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1601386086836">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601390902000" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1601390901999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601386086836" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1601386086838">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601390901999" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1601390902002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601386086838" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601390902002" />
     <state x="395" y="79" key="MultipleFileMergeDialog" timestamp="1601364642074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -246,10 +236,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601386160092" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601370474758">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601447050345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601370474758" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601447050345" />
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601377546774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
