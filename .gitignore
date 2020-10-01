@@ -24,6 +24,8 @@ local.properties
 .idea/encodings.xml
 .idea/misc.xml
 .idea/modules.xml
+.idea/caches/
+.idea/codeStyles/
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 *.iml
@@ -36,3 +38,8 @@ local.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Gradle files
+.idea/gradle.xml
+build.gradle
+gradle/wrapper/gradle-wrapper.properties
