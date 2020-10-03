@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +69,15 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-29T19:36:10.347Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -157,9 +169,25 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start InfoActivity">
+      <created>1601674885098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601674885098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start InfoActivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start InfoActivity" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="133" y="98" key="#PSD" timestamp="1601748851536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="98" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1601748851536" />
     <state x="492" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1601674634354">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -172,22 +200,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="122" y="21" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1601407440524" />
-    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1601663446991">
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1601758538812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601663446991" />
-    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1601663446991">
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601758538812" />
+    <state width="1171" height="175" key="GridCell.Tab.0.bottom" timestamp="1601758413706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601663446991" />
-    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1601663446990">
+    <state width="1171" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601758413706" />
+    <state width="1171" height="175" key="GridCell.Tab.0.center" timestamp="1601758413706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601663446990" />
-    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1601663446991">
+    <state width="1171" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601758413706" />
+    <state width="1171" height="175" key="GridCell.Tab.0.left" timestamp="1601758413705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601663446991" />
+    <state width="1171" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601758413705" />
+    <state width="1171" height="175" key="GridCell.Tab.0.right" timestamp="1601758413706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1171" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601758413706" />
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601674910868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601674910868" />
+    <state x="293" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1601751450351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="293" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601751450351" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601674497706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
