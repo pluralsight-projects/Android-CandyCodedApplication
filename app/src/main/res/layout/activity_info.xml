@@ -33,7 +33,9 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toRightOf="@+id/image_view_map"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/image_view_candy_store" />
+        app:layout_constraintTop_toBottomOf="@+id/image_view_candy_store"
+        android:clickable="true"
+        android:onClick="createMapIntent"/>
 
     <TextView
         android:id="@+id/text_view_phone"
@@ -48,7 +50,9 @@
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/image_view_map" />
+        app:layout_constraintTop_toBottomOf="@+id/image_view_map"
+        android:clickable="true"
+        android:onClick="createPhoneIntent"/>
 
     <TextView
         android:id="@+id/text_view_hours"
