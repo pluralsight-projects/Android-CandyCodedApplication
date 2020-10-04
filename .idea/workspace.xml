@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,14 +207,22 @@
       <option name="project" value="LOCAL" />
       <updated>1601759352804</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test Correction One">
+      <created>1601759748804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601759748804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start InfoActivity" />
     <MESSAGE value="Launch Google Map" />
     <MESSAGE value="Test Correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Correction" />
+    <MESSAGE value="Test Correction One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Correction One" />
   </component>
   <component name="WindowStateProjectService">
     <state x="133" y="98" key="#PSD" timestamp="1601748851536">
@@ -233,34 +241,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="122" y="21" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1601407440524" />
-    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1601759341387">
+    <state x="296" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601787599374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601759341387" />
-    <state width="1171" height="175" key="GridCell.Tab.0.bottom" timestamp="1601758413706">
+    <state x="296" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1601787599374" />
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1601759741956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601758413706" />
-    <state width="1171" height="175" key="GridCell.Tab.0.center" timestamp="1601758413706">
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601759741956" />
+    <state width="1171" height="157" key="GridCell.Tab.0.bottom" timestamp="1601760440154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601758413706" />
-    <state width="1171" height="175" key="GridCell.Tab.0.left" timestamp="1601758413705">
+    <state width="1171" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601760440154" />
+    <state width="1171" height="157" key="GridCell.Tab.0.center" timestamp="1601760440153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601758413705" />
-    <state width="1171" height="175" key="GridCell.Tab.0.right" timestamp="1601758413706">
+    <state width="1171" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601760440153" />
+    <state width="1171" height="157" key="GridCell.Tab.0.left" timestamp="1601760440153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601758413706" />
-    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601759699925">
+    <state width="1171" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601760440153" />
+    <state width="1171" height="157" key="GridCell.Tab.0.right" timestamp="1601760440154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601759699925" />
-    <state x="293" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1601751450351">
+    <state width="1171" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601760440154" />
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601759760885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="293" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601751450351" />
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601759760885" />
+    <state x="293" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1601787798421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="293" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601787798421" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601674497706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

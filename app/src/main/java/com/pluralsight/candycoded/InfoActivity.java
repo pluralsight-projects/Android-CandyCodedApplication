@@ -5,6 +5,8 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.TextView;
+
 import androidx.appcompat.app.AppCompatActivity;
 import com.squareup.picasso.Picasso;
 
@@ -20,6 +22,13 @@ public class InfoActivity extends AppCompatActivity {
         Picasso.get().
                 load(uri).
                 into(candyStoreImageView);
+        TextView textViewAddress = (TextView)findViewById(R.id.text_view_address);
+        textViewAddress.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                createMapIntent(view);
+            }
+        });
 
 
     }
