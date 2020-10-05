@@ -54,7 +54,9 @@
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/image_view_map" />
+        app:layout_constraintTop_toBottomOf="@+id/image_view_map"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="8dp" />
 
     <TextView
         android:id="@+id/text_view_hours"
@@ -66,7 +68,8 @@
         android:text="Everyday 10am-10pm"
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_phone"
-        app:layout_constraintTop_toTopOf="@+id/image_view_hours" />
+        app:layout_constraintTop_toTopOf="@+id/image_view_hours"
+        android:layout_marginStart="0dp" />
 
     <ImageView
         android:id="@+id/image_view_phone"
@@ -77,7 +80,8 @@
         android:adjustViewBounds="true"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_map"
-        app:srcCompat="@android:drawable/stat_sys_phone_call" />
+        app:srcCompat="@android:drawable/stat_sys_phone_call"
+        android:layout_marginStart="16dp" />
 
     <ImageView
         android:id="@+id/image_view_hours"
@@ -88,7 +92,8 @@
         android:adjustViewBounds="true"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_phone"
-        app:srcCompat="@android:drawable/ic_menu_recent_history" />
+        app:srcCompat="@android:drawable/ic_menu_recent_history"
+        android:layout_marginStart="16dp" />
 
     <ImageView
         android:id="@+id/image_view_map"
@@ -99,6 +104,7 @@
         android:adjustViewBounds="true"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_candy_store"
-        app:srcCompat="@android:drawable/ic_dialog_map" />
+        app:srcCompat="@android:drawable/ic_dialog_map"
+        android:layout_marginStart="16dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
