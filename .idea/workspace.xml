@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601788097891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Intent Flags Removed">
+      <created>1601892988413</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601892988413</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,7 +236,8 @@
     <MESSAGE value="Test Correction" />
     <MESSAGE value="Test Correction One" />
     <MESSAGE value="InfoActivity TextView Address OnClickListener" />
-    <option name="LAST_COMMIT_MESSAGE" value="InfoActivity TextView Address OnClickListener" />
+    <MESSAGE value="Intent Flags Removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intent Flags Removed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="133" y="98" key="#PSD" timestamp="1601748851536">
@@ -254,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="296" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1601787599374" />
-    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1601788095863">
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1601892986716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601788095863" />
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601892986716" />
     <state width="1171" height="157" key="GridCell.Tab.0.bottom" timestamp="1601892667061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -274,10 +280,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1171" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601892667061" />
-    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601788132581">
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601892997723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601788132581" />
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601892997723" />
     <state x="293" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1601787798421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
