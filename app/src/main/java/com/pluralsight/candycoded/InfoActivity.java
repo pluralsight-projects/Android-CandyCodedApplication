@@ -22,13 +22,13 @@ public class InfoActivity extends AppCompatActivity {
         Picasso.get().
                 load(uri).
                 into(candyStoreImageView);
-        TextView textViewAddress = (TextView)findViewById(R.id.text_view_address);
+        /*TextView textViewAddress = (TextView)findViewById(R.id.text_view_address);
         textViewAddress.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 createMapIntent(view);
             }
-        });
+        });*/
 
 
     }
