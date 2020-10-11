@@ -9,8 +9,8 @@ import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import junit.framework.Assert;
 
+import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.runner.RunWith;
