@@ -12,8 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601892988413</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add IntentFilters to Activity">
+      <created>1602446338987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602446338987</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,7 +245,8 @@
     <MESSAGE value="Test Correction One" />
     <MESSAGE value="InfoActivity TextView Address OnClickListener" />
     <MESSAGE value="Intent Flags Removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intent Flags Removed" />
+    <MESSAGE value="Add IntentFilters to Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add IntentFilters to Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="133" y="98" key="#PSD" timestamp="1601748851536">
@@ -262,30 +269,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="296" y="94" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1601787599374" />
-    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1601892986716">
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1602446336777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601892986716" />
-    <state width="1171" height="157" key="GridCell.Tab.0.bottom" timestamp="1601893563858">
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602446336777" />
+    <state width="1171" height="156" key="GridCell.Tab.0.bottom" timestamp="1602446596306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601893563858" />
-    <state width="1171" height="157" key="GridCell.Tab.0.center" timestamp="1601893563858">
+    <state width="1171" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602446596306" />
+    <state width="1171" height="156" key="GridCell.Tab.0.center" timestamp="1602446596305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601893563858" />
-    <state width="1171" height="157" key="GridCell.Tab.0.left" timestamp="1601893563857">
+    <state width="1171" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602446596305" />
+    <state width="1171" height="156" key="GridCell.Tab.0.left" timestamp="1602446596304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601893563857" />
-    <state width="1171" height="157" key="GridCell.Tab.0.right" timestamp="1601893563858">
+    <state width="1171" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602446596304" />
+    <state width="1171" height="156" key="GridCell.Tab.0.right" timestamp="1602446596305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1171" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601893563858" />
-    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601892997723">
+    <state width="1171" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602446596305" />
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2" timestamp="1602446360753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601892997723" />
+    <state x="279" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602446360753" />
     <state x="293" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1601904107408">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
