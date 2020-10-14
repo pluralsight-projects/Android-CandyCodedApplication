@@ -10,13 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +176,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="i dey jonz since :)">
+      <created>1602710215148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602710215148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i dey jonz since :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="i dey jonz since :)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="204" y="118" key="#PSD" timestamp="1602028686004">
@@ -191,6 +199,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="492" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602708728893" />
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1602710211755">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602710211755" />
     <state width="1322" height="145" key="GridCell.Tab.0.bottom" timestamp="1602708449037">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -211,13 +223,17 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="188" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602026476395" />
-    <state x="279" y="119" key="Vcs.Push.Dialog.v2" timestamp="1602710045400">
+    <state x="279" y="119" key="Vcs.Push.Dialog.v2" timestamp="1602710222996">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="279" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602710045400" />
+    <state x="279" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602710222996" />
     <state x="384" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1602701501558">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="384" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1602701501557" />
+    <state x="393" y="5" key="refactoring.ChangeSignatureDialog" timestamp="1602711299524">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="393" y="5" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1602711299524" />
   </component>
 </project>
