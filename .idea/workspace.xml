@@ -10,15 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="82aa0741" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -250,14 +250,22 @@
       <option name="project" value="LOCAL" />
       <updated>1601917020681</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Share a Candy with an Intent">
+      <created>1601919831605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601919831605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Store Information Activity" />
     <MESSAGE value="Google Maps Activity" />
     <MESSAGE value="Start the Phone Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start the Phone Activity" />
+    <MESSAGE value="Share a Candy with an Intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Share a Candy with an Intent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="270" y="38" key="#Notifications" timestamp="1601904739349">
@@ -268,30 +276,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="465" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1601918215535" />
-    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601917012621">
+    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601919936618">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601917012621" />
+    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601919936618" />
     <state x="543" y="292" key="Github.Dialog.Accounts.Choose" timestamp="1601906468288">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="543" y="292" key="Github.Dialog.Accounts.Choose/0.0.1366.738@0.0.1366.738" timestamp="1601906468288" />
-    <state width="1323" height="345" key="GridCell.Tab.0.bottom" timestamp="1601919771221">
+    <state width="1323" height="345" key="GridCell.Tab.0.bottom" timestamp="1601920800456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="345" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601919771221" />
-    <state width="1323" height="345" key="GridCell.Tab.0.center" timestamp="1601919771221">
+    <state width="1323" height="345" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601920800456" />
+    <state width="1323" height="345" key="GridCell.Tab.0.center" timestamp="1601920800456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="345" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601919771221" />
-    <state width="1323" height="345" key="GridCell.Tab.0.left" timestamp="1601919771220">
+    <state width="1323" height="345" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601920800456" />
+    <state width="1323" height="345" key="GridCell.Tab.0.left" timestamp="1601920800456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="345" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601919771220" />
-    <state width="1323" height="345" key="GridCell.Tab.0.right" timestamp="1601919771221">
+    <state width="1323" height="345" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601920800456" />
+    <state width="1323" height="345" key="GridCell.Tab.0.right" timestamp="1601920800456">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="345" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601919771221" />
+    <state width="1323" height="345" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601920800456" />
     <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1601912186983">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -308,17 +316,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1601912186983" />
-    <state x="270" y="112" key="Vcs.Push.Dialog.v2" timestamp="1601917028969">
+    <state x="270" y="112" key="Vcs.Push.Dialog.v2" timestamp="1602704532113">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="270" y="112" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601917028969" />
+    <state x="270" y="112" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602704532113" />
     <state x="92" y="92" width="1182" height="554" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601046958792">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="92" y="92" width="1182" height="554" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.738@0.0.1366.738" timestamp="1601046958792" />
-    <state x="266" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1601918730345">
+    <state x="266" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1602704388731">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="266" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1601918730345" />
+    <state x="266" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602704388731" />
   </component>
 </project>
