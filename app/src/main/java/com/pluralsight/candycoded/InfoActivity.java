@@ -3,6 +3,7 @@ package com.pluralsight.candycoded;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
@@ -35,6 +36,11 @@ public class InfoActivity extends AppCompatActivity {
 
 
 
+    }
+    public void createPhoneIntent(View view){
+        Intent intent = new Intent(Intent.ACTION_DIAL);
+        intent.setData(Uri.parse("tel:0123456789");
+        startActivity(intent);
     }
 
 
