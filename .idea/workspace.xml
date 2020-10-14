@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602713822356</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added telephone intent">
+      <created>1602714335277</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602714335277</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added telephone intent">
+      <created>1602714439138</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602714439138</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -318,21 +331,22 @@
     <MESSAGE value="what is the wahala" />
     <MESSAGE value="i mumu ooh" />
     <MESSAGE value="adde the intent name" />
-    <option name="LAST_COMMIT_MESSAGE" value="adde the intent name" />
+    <MESSAGE value="added telephone intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="added telephone intent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="204" y="118" key="#PSD" timestamp="1602028686004">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="204" y="118" key="#PSD/0.0.1366.768@0.0.1366.768" timestamp="1602028686004" />
-    <state x="492" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1602708728893">
+    <state x="492" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1602714590151">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602708728893" />
-    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1602714333029">
+    <state x="492" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602714590151" />
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1602714437540">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602714333029" />
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602714437540" />
     <state width="1322" height="145" key="GridCell.Tab.0.bottom" timestamp="1602708449037">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -353,10 +367,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="188" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602026476395" />
-    <state x="279" y="119" key="Vcs.Push.Dialog.v2" timestamp="1602714339937">
+    <state x="279" y="119" key="Vcs.Push.Dialog.v2" timestamp="1602714447722">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="279" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602714339937" />
+    <state x="279" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602714447722" />
     <state x="384" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1602701501558">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
