@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602713084825</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="i mumu ooh">
+      <created>1602713475594</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602713475594</updated>
+    </task>
+    <task id="LOCAL-00010" summary="i mumu ooh">
+      <created>1602713644354</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602713644354</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,7 +308,8 @@
     <MESSAGE value="na pidgin coder i be under pressure" />
     <MESSAGE value="na pidgin coder i be under pressure3" />
     <MESSAGE value="what is the wahala" />
-    <option name="LAST_COMMIT_MESSAGE" value="what is the wahala" />
+    <MESSAGE value="i mumu ooh" />
+    <option name="LAST_COMMIT_MESSAGE" value="i mumu ooh" />
   </component>
   <component name="WindowStateProjectService">
     <state x="204" y="118" key="#PSD" timestamp="1602028686004">
@@ -306,10 +320,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="492" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602708728893" />
-    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1602713473262">
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1602713642604">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602713473262" />
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602713642604" />
     <state width="1322" height="145" key="GridCell.Tab.0.bottom" timestamp="1602708449037">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -330,10 +344,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="188" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602026476395" />
-    <state x="279" y="119" key="Vcs.Push.Dialog.v2" timestamp="1602713482949">
+    <state x="279" y="119" key="Vcs.Push.Dialog.v2" timestamp="1602713652642">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="279" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602713482949" />
+    <state x="279" y="119" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602713652642" />
     <state x="384" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1602701501558">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
