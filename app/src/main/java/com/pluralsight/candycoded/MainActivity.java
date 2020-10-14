@@ -5,10 +5,12 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
@@ -27,6 +29,8 @@ import cz.msebera.android.httpclient.Header;
 public class MainActivity extends AppCompatActivity {
     private Candy[] candies;
     private CandyDbHelper candyDbHelper = new CandyDbHelper(this);
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         AsyncHttpClient client = new AsyncHttpClient();
         client.get("https://vast-brushlands-23089.herokuapp.com/main/api",
                 new TextHttpResponseHandler() {
@@ -72,13 +77,23 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
     }
+    @Override
+    public boolean onOptionsItemSelected( MenuItem item) {
+
+        Intent infoIntent = new Intent(this, InfoActivity.class);
+        startActivity(infoIntent);
+        return super.onOptionsItemSelected(item);
+
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.main, menu);
         return true;
+
     }
+
     // ***
     // TODO - Task 1 - Show Store Information Activity
     // ***
