@@ -26,7 +26,7 @@
         <activity android:name=".InfoActivity">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
-                <data android:scheme="geo" />
+                <data android:scheme="geo:0,0?q=618 e south st orlando, fl 32801" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
