@@ -22,13 +22,13 @@ public class InfoActivity extends AppCompatActivity {
         Picasso.get().
                 load(uri).
                 into(candyStoreImageView);
-        /*TextView textViewAddress = (TextView)findViewById(R.id.text_view_address);
+        TextView textViewAddress = (TextView)findViewById(R.id.text_view_address);
         textViewAddress.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 createMapIntent(view);
             }
-        });*/
+        });
 
 
     }
@@ -38,10 +38,14 @@ public class InfoActivity extends AppCompatActivity {
         Uri uri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, uri);
         mapIntent.setPackage("com.google.android.apps.maps");
-        //mapIntent.setFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+        mapIntent.resolveActivity(getPackageManager());
+        startActivity(mapIntent);
 
-        if (mapIntent.resolveActivity(getPackageManager()) != null) {
-            startActivity(mapIntent);
-        }
+    }
+
+    public void createPhoneIntent(View view){
+        Intent phoneIntent = new Intent(Intent.ACTION_DIAL);
+        phoneIntent.setData(Uri.parse("tel:0123456789"));
+        startActivity(phoneIntent);
     }
 }

@@ -6,11 +6,11 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 
-import org.junit.Assert;
+import junit.framework.Assert;
+
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -20,11 +20,11 @@ import org.powermock.core.classloader.annotations.PrepareForTest;
 import org.powermock.modules.junit4.PowerMockRunner;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
+import java.util.Objects;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
@@ -174,7 +174,7 @@ public class _2_StartTheGoogleMapsActivity {
         ArrayList<XMLTestHelpers.ViewContainer> viewContainers = new ArrayList<XMLTestHelpers.ViewContainer>();
 
         try {
-            inputStream = this.getClass().getClassLoader().getResourceAsStream(layoutFileName);
+            inputStream = Objects.requireNonNull(this.getClass().getClassLoader()).getResourceAsStream(layoutFileName);
             XmlPullParserFactory factory = XmlPullParserFactory.newInstance();
             factory.setNamespaceAware(false);
             XmlPullParser parser = factory.newPullParser();
