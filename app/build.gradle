@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    //its coz of the target and  compile sdk versions
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
@@ -25,6 +26,8 @@ android {
 }
 
 dependencies {
+
+    // compile is deprecated use implementation instead
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:28.0.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
@@ -44,3 +47,10 @@ dependencies {
     testCompile "org.powermock:powermock-core:1.7.1"
     testCompile "org.robolectric:robolectric:3.3.2"
 }
+
+//buildscript {
+//    dependencies {
+//        classpath 'com.android.tools.build:gradle'
+//        classpath 'com.android.tools.build:gradle:4.0.2'
+//    }
+//}
