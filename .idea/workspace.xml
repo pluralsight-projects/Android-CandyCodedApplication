@@ -6,13 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4996ae7-4b58-4bb4-981f-0d409f4545d7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+    <list default="true" id="a4996ae7-4b58-4bb4-981f-0d409f4545d7" name="Default" comment="gradle changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,13 +169,33 @@
       <option name="presentableId" value="Default" />
       <updated>1602763471089</updated>
     </task>
+    <task id="LOCAL-00001" summary="gradle changes">
+      <created>1602767138834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602767138834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gradle changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="gradle changes" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1602767130975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602767130975" />
     <state x="176" y="0" key="SettingsEditor" timestamp="1602766129912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="176" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602766129912" />
+    <state x="264" y="100" key="Vcs.Push.Dialog.v2" timestamp="1602767152375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602767152375" />
     <state x="481" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602766986524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
