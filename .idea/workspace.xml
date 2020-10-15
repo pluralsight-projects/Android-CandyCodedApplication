@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4996ae7-4b58-4bb4-981f-0d409f4545d7" name="Default" comment="gradle changes">
+    <list default="true" id="a4996ae7-4b58-4bb4-981f-0d409f4545d7" name="Default" comment="added property clickable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
@@ -176,26 +176,34 @@
       <option name="project" value="LOCAL" />
       <updated>1602767138834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added property clickable">
+      <created>1602769268512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602769268512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gradle changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradle changes" />
+    <MESSAGE value="added property clickable" />
+    <option name="LAST_COMMIT_MESSAGE" value="added property clickable" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1602767130975">
+    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1602769266387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="345" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602767130975" />
+    <state x="345" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602769266387" />
     <state x="176" y="0" key="SettingsEditor" timestamp="1602766129912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="176" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602766129912" />
-    <state x="264" y="100" key="Vcs.Push.Dialog.v2" timestamp="1602767152375">
+    <state x="264" y="100" key="Vcs.Push.Dialog.v2" timestamp="1602769287041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="264" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602767152375" />
+    <state x="264" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602769287041" />
     <state x="481" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602766986524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
